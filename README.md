@@ -1,5 +1,5 @@
-# Technical Optimization of SyntheticMR for the Head and Neck on a 3T MR-Simulator and 1.5T MR-Linac: A Prospective R-IDEAL Stage 2a Technology Development Report
-Code for the paper: "Technical Optimization of SyntheticMR for the Head and Neck on a 3T MR-Simulator and 1.5T MR-Linac: A Prospective R-IDEAL Stage 2a Technology Development Report" found at: <\<DOI\>>. The anonymized data is found at: https://doi.org/10.6084/m9.figshare.28703528.
+# Technical Optimization of SyntheticMR for the Head and Neck on a 3T MR-Simulator and 1.5T MR-Linac: A Prospective R-IDEAL Stage 2a Technology Innovation Report
+Code for the paper: "Technical Optimization of SyntheticMR for the Head and Neck on a 3T MR-Simulator and 1.5T MR-Linac: A Prospective R-IDEAL Stage 2a Technology Innovation Report" found at: <\<DOI\>>. The anonymized data is found at: https://doi.org/10.6084/m9.figshare.28703528.
 
 ## Installing proper requirements (on Windows)
 1. Create python environment with Python 3.8.10: `python3.8 -m venv env38`
